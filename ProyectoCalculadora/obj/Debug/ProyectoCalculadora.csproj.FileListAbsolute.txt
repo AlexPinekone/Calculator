@@ -1,0 +1,10 @@
+C:\Users\manue\source\repos\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.exe.config
+C:\Users\manue\source\repos\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.exe
+C:\Users\manue\source\repos\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.pdb
+C:\Users\manue\source\repos\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.Form1.resources
+C:\Users\manue\source\repos\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.Properties.Resources.resources
+C:\Users\manue\source\repos\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.exe
+C:\Users\manue\source\repos\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.pdb
